@@ -2,7 +2,7 @@
 
 Basic Command Line Reviewer project, using OpenAI's chosen LLMs. Results are printed in the terminal.
 
-Example:
+Example of reviewing `chatbot.py` file:
 
 `python reviewer.py chatbot.py --model "gpt-4o"`
 
